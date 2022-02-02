@@ -1,0 +1,27 @@
+  body {
+      padding: 0;
+      margin: 0;
+      height: 0;
+      background-color: #40E0D0;
+  }
+  .card-body .ImgBox{
+        box-sizing: border-box;
+        border-radius: 150px !important;
+        top: -78px;
+        left: 70px;
+        position: absolute;
+        justify-content: center;
+        align-content: center;  
+  }
+  .card-body img{
+    border: 12px solid white !important;
+    border-radius: 50% !important;
+  }
+  .card-body h2{
+    padding-top: 62px !important;
+  }
+
+  .row{
+      margin-top: 70px !important;
+  }
+  
